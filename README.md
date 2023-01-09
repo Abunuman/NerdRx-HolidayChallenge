@@ -9,4 +9,6 @@
 
 - [ ] Ensuring that each server displays its own Hostname or IP address.
 
-  **N.B:** Use any programming language of your choice to display this.
+# TOOL USED:
+
+- [ ] AWS CLOUD FORMATION
