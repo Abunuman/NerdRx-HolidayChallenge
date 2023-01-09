@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "ToyyibDevops"
+  },
+  {
+    "ParameterKey": "VpcCIDR",
+    "ParameterValue": "10.0.0.0/16"
+  },
+  {
+    "ParameterKey": "PubSubnetACIDR",
+    "ParameterValue": "10.0.0.0/24"
+  },
+  {
+    "ParameterKey": "PubSubnetBCIDR",
+    "ParameterValue": "10.0.1.0/24"
+  },
+  {
+    "ParameterKey": "PrivateSubnetACIDR",
+    "ParameterValue": "10.0.2.0/24"
+  },
+  {
+    "ParameterKey": "PrivateSubnetBCIDR",
+    "ParameterValue": "10.0.3.0/24"
+  }
+]
